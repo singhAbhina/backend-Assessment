@@ -11,6 +11,10 @@ This API leverages cutting-edge RAG architecture to:
 - Maintain conversation history and session management
 - Cache responses for improved performance using Redis
 
+
+<img width="1278" height="783" alt="image" src="https://github.com/user-attachments/assets/f20aa717-3455-4e0a-b28b-dd6c75985bd6" />
+
+
 ## ✨ Features
 
 - **News Ingestion**: Process and embed news articles into vector database
