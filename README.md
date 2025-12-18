@@ -2,7 +2,7 @@
 
 A production-ready Retrieval-Augmented Generation (RAG) API designed for intelligent news querying and analysis. This system enables semantic search over news articles and provides contextually relevant answers using LLM technology combined with vector database retrieval.
 <img width="1278" height="783" alt="image" src="https://github.com/user-attachments/assets/83c72cfe-d51d-444c-92c1-575ff837237a" />
-saquibshahid@edwidtech.com
+
 ## 📋 Overview
 
 This API leverages cutting-edge RAG architecture to:
