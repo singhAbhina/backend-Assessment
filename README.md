@@ -1,6 +1,7 @@
 # 🚀 Scalable RAG API for News Intelligence
 
 A production-ready Retrieval-Augmented Generation (RAG) API designed for intelligent news querying and analysis. This system enables semantic search over news articles and provides contextually relevant answers using LLM technology combined with vector database retrieval.
+<img width="1278" height="783" alt="image" src="https://github.com/user-attachments/assets/83c72cfe-d51d-444c-92c1-575ff837237a" />
 
 ## 📋 Overview
 
@@ -10,9 +11,6 @@ This API leverages cutting-edge RAG architecture to:
 - Generate intelligent, context-aware responses using Large Language Models
 - Maintain conversation history and session management
 - Cache responses for improved performance using Redis
-
-
-<img width="1278" height="783" alt="image" src="https://github.com/user-attachments/assets/f20aa717-3455-4e0a-b28b-dd6c75985bd6" />
 
 
 ## ✨ Features
